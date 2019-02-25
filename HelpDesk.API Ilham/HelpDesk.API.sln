@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.API", "HelpDesk.API\HelpDesk.API.csproj", "{FE0B5ECE-611E-4F6E-86B4-D5C6358E1BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.BussinessLogic", "HelpDesk.BussinessLogic\HelpDesk.BussinessLogic.csproj", "{CCD437CA-AF8D-4AFF-A4AA-F014D11362E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Common", "HelpDesk.Common\HelpDesk.Common.csproj", "{E71E7CF7-6109-4B09-89C8-CC037F59E121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Core", "HelpDesk.Core\HelpDesk.Core.csproj", "{41EBB18F-D7EC-4536-A915-FD34C9472C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.DataAccess", "HelpDesk.DataAccess\HelpDesk.DataAccess.csproj", "{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Client", "HelpDesk.Client\HelpDesk.Client.csproj", "{24FCF31D-6E83-47EE-BEAF-9E48000870B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0B5ECE-611E-4F6E-86B4-D5C6358E1BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0B5ECE-611E-4F6E-86B4-D5C6358E1BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0B5ECE-611E-4F6E-86B4-D5C6358E1BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0B5ECE-611E-4F6E-86B4-D5C6358E1BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD437CA-AF8D-4AFF-A4AA-F014D11362E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD437CA-AF8D-4AFF-A4AA-F014D11362E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD437CA-AF8D-4AFF-A4AA-F014D11362E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD437CA-AF8D-4AFF-A4AA-F014D11362E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71E7CF7-6109-4B09-89C8-CC037F59E121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71E7CF7-6109-4B09-89C8-CC037F59E121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71E7CF7-6109-4B09-89C8-CC037F59E121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71E7CF7-6109-4B09-89C8-CC037F59E121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EBB18F-D7EC-4536-A915-FD34C9472C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EBB18F-D7EC-4536-A915-FD34C9472C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EBB18F-D7EC-4536-A915-FD34C9472C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EBB18F-D7EC-4536-A915-FD34C9472C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D798270F-08E1-4A7A-BED3-5BDFF0CB1B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FCF31D-6E83-47EE-BEAF-9E48000870B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

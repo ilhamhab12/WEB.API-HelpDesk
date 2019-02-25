@@ -1,0 +1,105 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@*
+<div class="jumbotron">
+    <h2>Welcome to Help Desk</h2>
+    <p class="lead">Do you have any problem? Just tell Us <br> Help desk software enables support agents to provide quick and easy answers to help seekers. The right help desk software makes it simple for agents to organize, prioritize, and resolve requests so nothing falls through the cracks.</p>
+    <p><a href="http://localhost:20494/Account/Login/" class="btn btn-primary btn-lg">Login &raquo;</a></p>
+</div>
+
+<div class="row">
+    @*<div class="col-md-4">
+        <h2>Customers</h2>
+        <p>
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <p><a class="btn btn-default" href="http://localhost:20494/Customers/Index">Let's Go.. &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Staff L1</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="http://localhost:20494/TicketProgresses/Index">Let's Go.. &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Staff L2 and L3</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://localhost:20494/TicketProgresses/MenuL2L3">Let's Go.. &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Admin</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://localhost:20494/TicketProgresses/MenuL2L3">Let's Go.. &raquo;</a></p>
+    </div>
+</div>*@
+<div class="panel panel-body">
+
+    <div class="jumbotron">
+        <h2>Welcome to Help Desk..</h2>
+        <p class="lead">Do you have any problem? Just tell Us, <br> Help desk software enables support agents to provide quick and easy answers to help seekers. The right help desk software makes it simple for agents to organize, prioritize, and resolve requests so nothing falls through the cracks.</p>
+        @*<p><a href="http://localhost:20494/Account/Login/" class="btn btn-primary btn-lg">Login &raquo;</a></p>*@
+    </div>
+
+    <div class="col-md-9">
+
+        <form>
+            <div class="form-group">
+                <div class="col-md-12">
+                    <h4>Login Here</h4>
+                </div>
+            </div>
+            @*<div class="form-group">
+                <label for="Username">Username</label>
+                <input type="text" class="form-control" id="Username" placeholder="Username" />
+                <span style="color:red" class="error">Valid Username Requiere</span>
+            </div>
+            <div class="form-group">
+                <label for="Password">Password</label>
+                <input type="password" class="form-control" id="Password" placeholder="Password" />
+                <span style="color:red" class="error">Valid Password Requiere</span>
+            </div>*@
+            <div class="form-group">
+                <div class="col-md-12">
+                   <label for="Username">Username</label>
+                    <input type="text" class="form-control" id="Username" placeholder="Type Username Here" />
+                    <span style="color:red" class="error">Valid Username Requiere</span>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-12">
+                    <label for="Password">Password</label>
+                    <input type="password" class="form-control" id="Password" placeholder="Type Password Here" />
+                    <span style="color:red" class="error">Valid Password Requiere</span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-12">
+                    <a href="#" class="btn btn-primary " onclick="ValidationLogin();">Login</a>
+                    <a href="http://localhost:20494/Account/ForgotPassword" class="txt1">
+                        Forgot Password?
+                    </a>                
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-12">
+                    <a href="http://localhost:20494/Account/Register" class="txt1">
+                        Register as new User
+                    </a>
+                </div>
+            </div>
+            
+        </form>
+    </div>
+</div>
+    @section Scripts {
+        <link href="~/Scripts/Content/datatables/jquery.dataTables.min.css" rel="stylesheet" />
+        <script src="~/Scripts/Content/datatables/jquery.dataTables.min.js"></script>
+        <link href="~/Scripts/Content/sweetalert/sweetalert.css" rel="stylesheet" />
+        <script src="~/Scripts/Content/sweetalert/sweetalert.min.js"></script>
+
+        <script src="~/Scripts/LoginMaster/LoginCustomer.js"></script>        
+        @Scripts.Render("~/bundles/jqueryval")
+    }

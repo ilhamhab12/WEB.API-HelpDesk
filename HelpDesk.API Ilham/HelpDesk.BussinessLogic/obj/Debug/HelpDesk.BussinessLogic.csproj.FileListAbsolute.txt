@@ -1,0 +1,48 @@
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.exe.config
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Common.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Common.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.exe.config
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Common.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Common.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.exe.config
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.BussinessLogic.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Common.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Common.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.BussinessLogic\obj\Debug\HelpDesk.BussinessLogic.pdb

@@ -1,0 +1,65 @@
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csprojResolveAssemblyReference.cache
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe.config
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.pdb
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.dll
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.exe
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.pdb
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.xml
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.exe
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.pdb
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.addtable.resources
+c:\Users\Habibie\documents\visual studio 2015\Projects\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csproj.GenerateResource.Cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe.config
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.firstmodel.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.DistrictVillage.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csproj.GenerateResource.Cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe.config
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.firstmodel.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.DistrictVillage.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csproj.GenerateResource.Cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Iqbal\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.addPriorityCategoryCustomer.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe.config
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.addTicket.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.csproj.GenerateResource.Cache
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.addStaffTicketProgressProblemSolved.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.deleteProblemSolved.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.updateTicketprogress.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.updateTicketandAddStatus.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.updateFromIqbalProgress.resources
+D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.DataAccess\obj\Debug\HelpDesk.DataAccess.Migrations.updateTicketaddSubCategory.resources

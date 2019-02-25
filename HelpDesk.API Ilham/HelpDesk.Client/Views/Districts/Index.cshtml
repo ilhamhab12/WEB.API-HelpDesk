@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Manage District</h2>
+<div class="container">
+    <hr />
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" onclick="LoadHiddenNotification();">Create New</button><br /><br />
+    <table class="table table-hover" id="table">
+        <thead>
+            <tr>
+                <th>
+                    No
+                </th>
+                <th>
+                    District
+                </th>
+                <th>
+                    Regency
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody class="tbody"></tbody>
+    </table>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4 class="modal-title" id="myModalLabel">District Form</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="Id">Id</label>
+                        <input type="text" class="form-control" id="Id" placeholder="Id" disabled="disabled" />
+                    </div>
+                    <div class="form-group">
+                        <label for="Name">District</label>
+                        <input type="text" class="form-control" id="Name" placeholder="District" />
+                        <span style="color:red" class="error">Valid District Requiere</span>
+                    </div>
+                    <div class="form-group">
+                        <label for="Name">Regency</label>
+                        <select id="Regencies" data-placement="Choose" class="form-control"></select>
+                        <span style="color:red" class="error">Valid Regency Required</span>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="Save" onclick="ValidationSave();">Add</button>
+                <button type="button" class="btn btn-primary" id="Update" style="display:none;" onclick="ValidationEdit();">Update</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal" onclick="LoadHiddenNotification();">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <link href="~/Scripts/Content/datatables/jquery.dataTables.min.css" rel="stylesheet" />
+    <script src="~/Scripts/Content/datatables/jquery.dataTables.min.js"></script>
+    <link href="~/Scripts/Content/sweetalert/sweetalert.css" rel="stylesheet" />
+    <script src="~/Scripts/Content/sweetalert/sweetalert.min.js"></script>
+    <script src="~/Scripts/DistrictMaster/RetrievingDistrict.js"></script>
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+
+
