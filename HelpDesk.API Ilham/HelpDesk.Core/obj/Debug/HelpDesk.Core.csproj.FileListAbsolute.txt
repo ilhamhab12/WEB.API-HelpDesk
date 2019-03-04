@@ -28,3 +28,13 @@ D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\Enti
 D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Core\obj\Debug\HelpDesk.Core.exe
 D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Core\obj\Debug\HelpDesk.Core.pdb
 D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Core\obj\Debug\HelpDesk.Core.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\HelpDesk.Core.exe.config
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\obj\Debug\HelpDesk.Core.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\obj\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Core\obj\Debug\HelpDesk.Core.pdb

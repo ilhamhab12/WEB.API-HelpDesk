@@ -40,3 +40,17 @@ D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\En
 D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Common\obj\Debug\HelpDesk.Common.csprojResolveAssemblyReference.cache
 D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Common\obj\Debug\HelpDesk.Common.exe
 D:\Bootcamp22\HelpDesk-ASPWebAPI\HelpDesk.API Ilham\HelpDesk.Common\obj\Debug\HelpDesk.Common.pdb
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\HelpDesk.Common.exe.config
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\HelpDesk.Common.exe
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\HelpDesk.Common.pdb
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\HelpDesk.Core.exe
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\HelpDesk.DataAccess.exe
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\HelpDesk.Core.pdb
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\HelpDesk.DataAccess.pdb
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\obj\Debug\HelpDesk.Common.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\obj\Debug\HelpDesk.Common.exe
+D:\Bootcamp22\WEB.API-HelpDesk\HelpDesk.API Ilham\HelpDesk.Common\obj\Debug\HelpDesk.Common.pdb

@@ -1,11 +1,12 @@
 ﻿
 @{
     ViewBag.Title = "Index";
-    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    //Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    Layout = "~/Views/Shared/_LayoutAdminproCustomer.cshtml";
 }
 
 <h2>Manage Customer</h2>
-<div class="container">
+<div class="container table-responsive" >
     <hr />
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" onclick="LoadHiddenNotification();">Create New</button><br /><br />
     <table class="table table-hover" id="table">
