@@ -53,7 +53,15 @@ function LoadIndexTicketProgress() {
                 //html += '<td>' + val.Tickets.Customers.FirstName + '</td>';
                 html += '<td>' + val.Tickets.Problem + '</td>';
                 html += '<td>' + val.Tickets.Solution + '</td>';
-                html += '<td>' + val.Tickets.Priorities.Name + '</td>';
+                if (val.Tickets.Priorities.Name == "Low") {
+                    html += '<td><span class="label label-success">' + val.Tickets.Priorities.Name + '</span></td>';
+                }
+                if (val.Tickets.Priorities.Name == "Medium") {
+                    html += '<td><span class="label label-warning">' + val.Tickets.Priorities.Name + '</span></td>';
+                }
+                if (val.Tickets.Priorities.Name == "High") {
+                    html += '<td><span class="label label-danger">' + val.Tickets.Priorities.Name + '</span></td>';
+                }
                 html += '<td>' + val.Tickets.DueDate + '</td>';
                 html += '<td>' + val.Tickets.Categories.Name + '</td>';
                 html += '<td>' + val.Tickets.SubCategories.Name + '</td>';
@@ -62,8 +70,26 @@ function LoadIndexTicketProgress() {
                 //html += '<td>' + val.ProgressDate + '</td>';
                 html += '<td>' + val.Tickets.CreateDate + '</td>';
                 //html += '<td>' + val.Staffs.FirstName + '</td>';
-                html += '<td>' + val.Statuses.Name + '</td>';
-                html += '<td> <a href="#" class="fa fa-pencil" onclick="return GetById(' + val.Id + ')">Update</a>';
+                if (val.Statuses.Name == "Open") {
+                    html += '<td><span class="label label-danger">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "On Wait") {
+                    html += '<td><span class="label label-warning">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "On Hold") {
+                    html += '<td><span class="label label-info">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "On Progress") {
+                    html += '<td><span class="label label-primary">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "Resolved") {
+                    html += '<td><span class="label label-success">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "Closed") {
+                    html += '<td><span class="label label-default">' + val.Statuses.Name + '</span></td>';
+                }
+                html += '<td> <button href="#" class="btn btn-outline-info" onclick="return GetById(' + val.Id + ')">Update</button></td>';
+                //html += '<td> <a href="#" class="fa fa-pencil" onclick="return GetById(' + val.Id + ')">Update</a>';
                 //html += ' | <a href="#" class="fa fa-trash" onclick="return Delete(' + val.Id + ')">Delete</a></td>';
                 html += '</tr>';
                 i++;

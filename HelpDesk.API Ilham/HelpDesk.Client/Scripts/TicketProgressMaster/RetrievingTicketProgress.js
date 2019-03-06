@@ -162,8 +162,27 @@ function LoadIndexTicketProgress() {
                 //html += '<td>' + val.ProgressDate + '</td>';
                 html += '<td>' + val.Tickets.CreateDate + '</td>';
                 //html += '<td>' + val.Staffs.FirstName + '</td>';
-                html += '<td>' + val.Statuses.Name + '</td>';
-                html += '<td> <a href="#" class="fa fa-pencil" onclick="return GetById(' + val.Id + ')">Assign</a>';
+                if (val.Statuses.Name == "Open") {
+                    html += '<td><span class="label label-danger">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "On Wait") {
+                    html += '<td><span class="label label-warning">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "On Hold") {
+                    html += '<td><span class="label label-info">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "On Progress") {
+                    html += '<td><span class="label label-primary">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "Resolved")
+                {
+                    html += '<td><span class="label label-success">' + val.Statuses.Name + '</span></td>';
+                }
+                if (val.Statuses.Name == "Closed") {
+                    html += '<td><span class="label label-default">' + val.Statuses.Name + '</span></td>';
+                }
+                //html += '<td> <a href="#" class="fa fa-pencil" onclick="return GetById(' + val.Id + ')">Assign</a>';
+                html += '<td> <button href="#" class="btn btn-outline-info" onclick="return GetById(' + val.Id + ')">Assign</button></td>';
                 //html += ' | <a href="#" class="fa fa-trash" onclick="return Delete(' + val.Id + ')">Delete</a></td>';
                 html += '</tr>';
                 i++;
